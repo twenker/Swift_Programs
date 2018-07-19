@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c65bb64d948ab1d14ec4d594706fc90c"
+build_time: [1518650888, 930141000]
+inputs:
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_HW1/Todd_Wenker_HW1/ViewController.swift": [1518650886, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_HW1/Todd_Wenker_HW1/AppDelegate.swift": [1518627002, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_HW1/Todd_Wenker_HW1/WeeklyReportViewController.swift": [1518645741, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_HW1/Model/healthReport.swift": [1518644893, 0]

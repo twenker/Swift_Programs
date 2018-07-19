@@ -1,0 +1,32 @@
+format:
+json data
+{title: String,
+version: Float,
+href: String,
+results[]:result
+}
+
+result
+{title:String,
+href:String,
+ingredients:String,
+thumbnail:String
+}
+
+
+
+{   "title":"Recipe Puppy",
+    "version":0.1,
+    "href":"http:\/\/www.recipepuppy.com\/",
+    "results":[
+        {"title":"Great Hamburgers",
+        "href":"http:\/\/www.recipezaar.com\/Great-Hamburgers-137385",
+        "ingredients":"evaporated milk, cracker crumbs, mustard powder, eggs, green pepper, ground beef, onions, black pepper, salt",
+        "thumbnail":"http:\/\/img.recipepuppy.com\/690411.jpg"},
+
+        {"title":"Hamburgers With a Kick",
+        "href":"http:\/\/www.recipezaar.com\/Hamburgers-With-a-Kick-216337",
+        "ingredients":"barbecue sauce, eggs, garlic powder, ground meat, steak sauce, onion powder, parsley, ranch dressing, salt, bread crumbs, hot sauce",
+        "thumbnail":"http:\/\/img.recipepuppy.com\/216950.jpg"},{"title":"Spicy Blue Cheese Hamburgers","href":"http:\/\/allrecipes.com\/Recipe\/Spicy-Blue-Cheese-Hamburgers\/Detail.aspx","ingredients":"black pepper, blue cheese, chicken, hamburger bun, ground beef, onions, worcestershire sauce, mustard","thumbnail":""},{"title":"Bacon Wrapped Hamburgers","href":"http:\/\/allrecipes.com\/Recipe\/Bacon-Wrapped-Hamburgers\/Detail.aspx","ingredients":"bacon, ground beef, cheddar cheese, eggs, hamburger bun, ketchup, onions, parmesan cheese, black pepper, salt, worcestershire sauce","thumbnail":"http:\/\/img.recipepuppy.com\/28353.jpg"},{"title":"Game Day Hamburgers","href":"http:\/\/allrecipes.com\/Recipe\/Game-Day-Hamburgers\/Detail.aspx","ingredients":"ground beef, potato, swiss cheese","thumbnail":"http:\/\/img.recipepuppy.com\/29275.jpg"},{"title":"Cheddar Bacon Hamburgers","href":"http:\/\/allrecipes.com\/Recipe\/Cheddar-Bacon-Hamburgers\/Detail.aspx","ingredients":"ground beef, cheddar cheese, garlic powder, hamburger bun, horseradish, black pepper, bacon, salt","thumbnail":"http:\/\/img.recipepuppy.com\/29921.jpg"},{"title":"Delicious Grilled Hamburgers","href":"http:\/\/allrecipes.com\/Recipe\/Delicious-Grilled-Hamburgers\/Detail.aspx","ingredients":"garlic powder, ground beef, liquid smoke flavoring, olive oil, salt, worcestershire sauce","thumbnail":"http:\/\/img.recipepuppy.com\/30489.jpg"},{"title":"Jalapeno Hamburgers","href":"http:\/\/allrecipes.com\/Recipe\/Jalapeno-Hamburgers\/Detail.aspx","ingredients":"cajun seasoning, cilantro, garlic, jalapeno, ground beef, tomato paste","thumbnail":""},{"title":"Almost White Castle Hamburgers","href":"http:\/\/www.recipezaar.com\/Almost-White-Castle-Hamburgers-109264","ingredients":"american cheese, bread crumbs, sandwich rolls, eggs, ground beef, onion soup mix, black pepper, pickle, water","thumbnail":"http:\/\/img.recipepuppy.com\/35126.jpg"},{"title":"Saucy Hamburgers","href":"http:\/\/www.recipezaar.com\/Saucy-Hamburgers-35217","ingredients":"parsley, bread crumbs, eggs, ground beef, black pepper, salt, sour cream, thyme","thumbnail":"http:\/\/img.recipepuppy.com\/35787.jpg"}
+    ]
+}

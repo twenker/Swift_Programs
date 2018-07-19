@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "f3d1144b2a1474fd1f397e10eadb7c18"
+build_time: [1522465379, 38645000]
+inputs:
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab4/Todd_Wenker_Lab4/CityEntity+CoreDataProperties.swift": [1519683166, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab4/Todd_Wenker_Lab4/ViewController.swift": [1519704689, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab4/Todd_Wenker_Lab4/AppDelegate.swift": [1519683111, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab4/Todd_Wenker_Lab4/CityEntity+CoreDataClass.swift": [1519683166, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab4/Todd_Wenker_Lab4/detailViewController.swift": [1519704833, 0]

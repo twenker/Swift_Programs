@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "6cda2ac49d092b2346e6e0b90a210e9f"
+build_time: [1524506994, 842475000]
+inputs:
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/ViewController.swift": [1524335583, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/groceryViewController.swift": [1524354523, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/searchViewController.swift": [1524454459, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/RecipeEntity+CoreDataProperties.swift": [1524434838, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/AppDelegate.swift": [1522265413, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/RecipeCell.swift": [1524428922, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/RecipeEntity+CoreDataClass.swift": [1524355620, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/savedViewController.swift": [1524451367, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/recipeViewController.swift": [1524461999, 0]
+  "/Users/toddwenker/Documents/CSE335/Class_Project/RecipeFinder/RecipeFinder/webViewController.swift": [1524460796, 0]

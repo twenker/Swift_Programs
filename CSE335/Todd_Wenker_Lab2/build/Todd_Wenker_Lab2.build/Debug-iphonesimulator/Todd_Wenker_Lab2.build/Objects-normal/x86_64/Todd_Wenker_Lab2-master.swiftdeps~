@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "e084e8136d4b0238214a5a1f71079e05"
+build_time: [1517267463, 29778000]
+inputs:
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab2/Model/foodItem.swift": [1517186255, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab2/Model/foodDictionary.swift": [1517267462, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab2/Todd_Wenker_Lab2/ViewController.swift": [1517266672, 0]
+  "/Users/toddwenker/Documents/CSE335/Todd_Wenker_Lab2/Todd_Wenker_Lab2/AppDelegate.swift": [1516912970, 0]
